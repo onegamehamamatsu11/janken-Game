@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-じゃんけんゲーム-1.0";
 const contentToCache = [
-    "Build/jyanken ge-mu2.loader.js",
-    "Build/jyanken ge-mu2.framework.js.br",
-    "Build/jyanken ge-mu2.data.br",
-    "Build/jyanken ge-mu2.wasm.br",
+    "Build/jyanken ge-mu3.loader.js",
+    "Build/jyanken ge-mu3.framework.js.unityweb",
+    "Build/jyanken ge-mu3.data.unityweb",
+    "Build/jyanken ge-mu3.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
